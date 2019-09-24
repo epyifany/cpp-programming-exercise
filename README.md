@@ -1,12 +1,11 @@
-Assignments
+Introduction
 ===========
 
-This is the [CSE-30872-FA18] reading and challenge assignments repository for:
+These cpp programming exercises are a part of the course [CSE-30872-FA18].
 
-- **Name**:     Domer McDomerson
-- **NetID**:    dmcdomer
+- **Name**:     Yifan Yu
 
-[CSE-30872-FA18]:   https://www3.nd.edu/~pbui/teaching/cse.30872.fa18/
+
 
 Readings
 --------
