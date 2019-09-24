@@ -1,0 +1,30 @@
+{
+  "q1": [
+    "quick_bigo",
+    "insert_bigo",
+    "count_bigo",
+    "bubble_bigo"
+  ],
+  "q2": [
+    "sort",
+    "v.begin()",
+    "v.end()",
+    "sort",
+    "v.rbegin()",
+    "v.rend()"
+  ],
+  "q3": [
+    "3",
+    "8"
+  ],
+  "q4": [
+    "start < end",
+    "end - start",
+    "length / 2",
+    "start + middle",
+    "target < midpoint",
+    "start + middle",
+    "target > midpoint",
+    "start + middle + 1"
+  ]
+}
